@@ -1,0 +1,7 @@
+name: PluginName
+author: "Your name here"
+main: com.example.Main
+
+# Generated values
+version: ${version}
+api-version: ${api}
