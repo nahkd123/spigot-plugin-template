@@ -1,0 +1,5 @@
+plugins {
+    // Automatically download Java if there's no existing JDK installation
+    // Mainly used in CI enviromnent.
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.4.0'
+}
